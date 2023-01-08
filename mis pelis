@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:- COCO,https://otherholidayspecials.fandom.com/wiki/Coco?file=Coco.jpg
+http://192.99.233.158/disco2/Peliculas/Animadas/Coco.mkv
+
+#EXTINF:-CAVERNICOLA, https://www.filmaffinity.com/mx/film583443.html
+http://192.99.233.158/disco2/Peliculas/Animadas/El%20Cavernicola.mkv
+
+#EXTINF:- MEDIANOCHE
+http://192.99.233.158/disco2/Peliculas/Terror/Demonio%20de%20Medianoche.mkv
